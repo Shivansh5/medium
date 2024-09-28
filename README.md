@@ -1,7 +1,7 @@
 # medium
 https://freedium.cfd/
 
-#jenkins
+# jenkins
 https://yashdevops.medium.com/building-multi-arch-images-inside-kubernetes-using-buildkit-8d37d9c7e3f4
 https://freedium.cfd/https://medium.com/@yeskay16/trigger-jenkins-multibranch-pipleline-using-jenkinsfile-9c160d02e39a              ✨
 https://medium.com/@yussufshaikh/create-multi-arch-docker-images-using-jenkins-pipeline-3947a1d4a3af
