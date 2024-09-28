@@ -3,10 +3,15 @@ https://freedium.cfd/
 
 # jenkins
 https://yashdevops.medium.com/building-multi-arch-images-inside-kubernetes-using-buildkit-8d37d9c7e3f4
+
 https://freedium.cfd/https://medium.com/@yeskay16/trigger-jenkins-multibranch-pipleline-using-jenkinsfile-9c160d02e39a              ✨
+
 https://medium.com/@yussufshaikh/create-multi-arch-docker-images-using-jenkins-pipeline-3947a1d4a3af
+
 https://blog.devops.dev/automate-spring-boot-app-with-jenkins-pipeline-using-amazon-ecr-and-eks-a09a7af0d866
+
 https://blog.devgenius.io/deploying-amazon-eks-cluster-step-by-step-guide-c78980e22940
+
 https://freedium.cfd/https://medium.com/swlh/ci-cd-pipeline-of-jenkins-using-groovy-language-with-monitoring-on-the-top-of-kubernetes-b37f962fb0ac      ✨
 
 # Cluster AutoScaler in AWS EKS
