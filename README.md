@@ -10,7 +10,7 @@ https://medium.com/@yussufshaikh/create-multi-arch-docker-images-using-jenkins-p
 
 https://blog.devops.dev/automate-spring-boot-app-with-jenkins-pipeline-using-amazon-ecr-and-eks-a09a7af0d866
 
-https://blog.devgenius.io/deploying-amazon-eks-cluster-step-by-step-guide-c78980e22940
+https://freedium.cfd/https://blog.devgenius.io/deploying-amazon-eks-cluster-step-by-step-guide-c78980e22940       ✨
 
 https://freedium.cfd/https://medium.com/swlh/ci-cd-pipeline-of-jenkins-using-groovy-language-with-monitoring-on-the-top-of-kubernetes-b37f962fb0ac      ✨
 
