@@ -89,5 +89,8 @@ https://nidhiashtikar.medium.com/essential-linux-commands-every-developer-should
 # Tony’s Recommended Articles          🔁
 https://freedium.cfd/https://tonylixu.medium.com/tonys-recommended-articles-66c1b8d5490a            ✨
 
+# K8s 2023 Interview Questions — Basics, Pod One
+https://medium.com/cloud-native-daily/k8s-2023-interview-questions-basics-pod-one-5184d21de1ff
+
 # Author Blog
 https://medium.com/@tonylixu
